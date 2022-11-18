@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
+	"runtime"
 )
 
 func main() {
-	fmt.Println(area.Circ(6.0))
+	fmt.Println(runtime.NumCPU())
 }

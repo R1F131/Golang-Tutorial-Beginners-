@@ -1,8 +1,6 @@
 package main
 
-import (
-	"math"
-)
+import "math"
 
 // Iniciando com letra maiúscula é PÚBLICO (visivel dentro e fora do pacote)!
 // Iniciando com letra minúscula é PRIVADO (visivel apenas dentro do pacote)!
